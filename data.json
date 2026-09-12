@@ -1,61 +1,59 @@
 {
-  "user": "turbolego",
-  "generatedAt": "2026-09-12T02:12:24.834Z",
-  "totalCommits": 159,
+  "user": "kveita",
+  "generatedAt": "2026-09-12T14:35:50.265Z",
+  "totalCommits": 67,
   "markers": [
     {
-      "owner": "Experis",
-      "commits": 11,
+      "owner": "turbolego",
+      "commits": 59,
       "location": [
-        61.1529386,
-        8.7876653
+        59.9685301,
+        10.4690248
       ],
       "repositories": [
         {
-          "name": ".github",
-          "url": "https://github.com/Experis/.github"
+          "name": "HololensAirplaneViewer",
+          "url": "https://github.com/turbolego/HololensAirplaneViewer"
+        },
+        {
+          "name": "HololensIKEA",
+          "url": "https://github.com/turbolego/HololensIKEA"
+        },
+        {
+          "name": "RullUt",
+          "url": "https://github.com/turbolego/RullUt"
+        },
+        {
+          "name": "Tilgjengelighet-WMS-OpenLayers",
+          "url": "https://github.com/turbolego/Tilgjengelighet-WMS-OpenLayers"
+        },
+        {
+          "name": "github-contrib-globe-badge",
+          "url": "https://github.com/turbolego/github-contrib-globe-badge"
+        },
+        {
+          "name": "iPad2Spotify",
+          "url": "https://github.com/turbolego/iPad2Spotify"
         }
       ]
     },
     {
-      "owner": "diegosouzapw",
-      "commits": 6,
+      "owner": "Ikalus1988",
+      "commits": 2,
       "location": [
-        -23.5506507,
-        -46.6333824
+        39.9057136,
+        116.3912972
       ],
       "repositories": [
         {
-          "name": "OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute"
-        }
-      ]
-    },
-    {
-      "owner": "TurboDevsAS",
-      "commits": 4,
-      "location": [
-        59.9133301,
-        10.7389701
-      ],
-      "repositories": [
-        {
-          "name": ".github",
-          "url": "https://github.com/TurboDevsAS/.github"
-        },
-        {
-          "name": "BlissBrain_TimeCrisis_Prototype_SpillExpo",
-          "url": "https://github.com/TurboDevsAS/BlissBrain_TimeCrisis_Prototype_SpillExpo"
-        },
-        {
-          "name": "EEGBliss",
-          "url": "https://github.com/TurboDevsAS/EEGBliss"
+          "name": "MisakaNet",
+          "url": "https://github.com/Ikalus1988/MisakaNet"
         }
       ]
     },
     {
       "owner": "criger",
-      "commits": 4,
+      "commits": 2,
       "location": [
         61.1529386,
         8.7876653
@@ -64,62 +62,6 @@
         {
           "name": "Agentic-Ground-Rules",
           "url": "https://github.com/criger/Agentic-Ground-Rules"
-        }
-      ]
-    },
-    {
-      "owner": "tvibitnmkt",
-      "commits": 3,
-      "location": [
-        69.6516345,
-        18.9558585
-      ],
-      "repositories": [
-        {
-          "name": "WhaleGuruVR",
-          "url": "https://github.com/tvibitnmkt/WhaleGuruVR"
-        }
-      ]
-    },
-    {
-      "owner": "progrium",
-      "commits": 2,
-      "location": [
-        37.8044557,
-        -122.271356
-      ],
-      "repositories": [
-        {
-          "name": "authsite",
-          "url": "https://github.com/progrium/authsite"
-        }
-      ]
-    },
-    {
-      "owner": "qualweb",
-      "commits": 2,
-      "location": [
-        38.7077507,
-        -9.1365919
-      ],
-      "repositories": [
-        {
-          "name": "qualweb",
-          "url": "https://github.com/qualweb/qualweb"
-        }
-      ]
-    },
-    {
-      "owner": "RightNow-AI",
-      "commits": 1,
-      "location": [
-        31.1667049,
-        36.941628
-      ],
-      "repositories": [
-        {
-          "name": "openfang",
-          "url": "https://github.com/RightNow-AI/openfang"
         }
       ]
     }

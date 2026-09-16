@@ -1,16 +1,20 @@
 {
   "user": "kveita",
-  "generatedAt": "2026-09-15T00:13:27.421Z",
-  "totalCommits": 73,
+  "generatedAt": "2026-09-16T00:12:32.281Z",
+  "totalCommits": 75,
   "markers": [
     {
       "owner": "turbolego",
-      "commits": 65,
+      "commits": 67,
       "location": [
         59.9685301,
         10.4690248
       ],
       "repositories": [
+        {
+          "name": "GuessTheSongYear",
+          "url": "https://github.com/turbolego/GuessTheSongYear"
+        },
         {
           "name": "HololensAirplaneViewer",
           "url": "https://github.com/turbolego/HololensAirplaneViewer"
@@ -18,6 +22,10 @@
         {
           "name": "HololensIKEA",
           "url": "https://github.com/turbolego/HololensIKEA"
+        },
+        {
+          "name": "OldMilk",
+          "url": "https://github.com/turbolego/OldMilk"
         },
         {
           "name": "RullUt",

@@ -1,11 +1,11 @@
 {
   "user": "kveita",
-  "generatedAt": "2026-09-17T00:12:17.770Z",
-  "totalCommits": 76,
+  "generatedAt": "2026-09-18T00:12:33.511Z",
+  "totalCommits": 84,
   "markers": [
     {
       "owner": "turbolego",
-      "commits": 68,
+      "commits": 76,
       "location": [
         59.9685301,
         10.4690248
@@ -42,6 +42,10 @@
         {
           "name": "iPad2Spotify",
           "url": "https://github.com/turbolego/iPad2Spotify"
+        },
+        {
+          "name": "wcag-skill",
+          "url": "https://github.com/turbolego/wcag-skill"
         }
       ]
     },

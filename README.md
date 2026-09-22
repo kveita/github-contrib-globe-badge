@@ -24,7 +24,7 @@ The animated GIF badge shows a rotating dotted world map with contribution-locat
 Use the linked-image Markdown below. Replace `turbolego` with your GitHub username if you fork the repository:
 
 ```markdown
-[![My contributions badge](https://raw.githubusercontent.com/turbolego/github-contrib-globe-badge/main/badge.gif)](https://turbolego.github.io/github-contrib-globe-badge/)
+[![My contributions badge](https://raw.githubusercontent.com/kveita/github-contrib-globe-badge/main/badge.gif)](https://kveita.github.io/github-contrib-globe-badge/)
 ```
 
 The outer link opens the interactive GitHub Pages globe in a new browser tab when the profile visitor clicks the badge link.

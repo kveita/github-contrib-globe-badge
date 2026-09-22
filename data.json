@@ -1,66 +1,79 @@
 {
   "user": "kveita",
-  "generatedAt": "2026-09-22T02:29:06.012Z",
-  "totalCommits": 161,
-  "totalPullRequests": 26,
+  "generatedAt": "2026-09-22T13:22:27.977Z",
+  "totalCommits": 84,
+  "totalPullRequests": 16,
   "markers": [
     {
-      "owner": "Experis",
-      "commits": 11,
-      "pullRequests": 0,
+      "owner": "turbolego",
+      "commits": 76,
+      "pullRequests": 8,
       "location": [
-        61.1529386,
-        8.7876653
+        59.9685301,
+        10.4690248
       ],
       "repositories": [
         {
-          "name": ".github",
-          "url": "https://github.com/Experis/.github"
+          "name": "Agentic-Ground-Rules",
+          "url": "https://github.com/turbolego/Agentic-Ground-Rules"
+        },
+        {
+          "name": "GuessTheSongYear",
+          "url": "https://github.com/turbolego/GuessTheSongYear"
+        },
+        {
+          "name": "HololensAirplaneViewer",
+          "url": "https://github.com/turbolego/HololensAirplaneViewer"
+        },
+        {
+          "name": "HololensIKEA",
+          "url": "https://github.com/turbolego/HololensIKEA"
+        },
+        {
+          "name": "OldMilk",
+          "url": "https://github.com/turbolego/OldMilk"
+        },
+        {
+          "name": "RullUt",
+          "url": "https://github.com/turbolego/RullUt"
+        },
+        {
+          "name": "Tilgjengelighet-WMS-OpenLayers",
+          "url": "https://github.com/turbolego/Tilgjengelighet-WMS-OpenLayers"
+        },
+        {
+          "name": "github-contrib-globe-badge",
+          "url": "https://github.com/turbolego/github-contrib-globe-badge"
+        },
+        {
+          "name": "iPad2Spotify",
+          "url": "https://github.com/turbolego/iPad2Spotify"
+        },
+        {
+          "name": "wcag-skill",
+          "url": "https://github.com/turbolego/wcag-skill"
         }
       ]
     },
     {
-      "owner": "diegosouzapw",
-      "commits": 7,
-      "pullRequests": 7,
+      "owner": "Ikalus1988",
+      "commits": 2,
+      "pullRequests": 2,
       "location": [
-        -23.5506507,
-        -46.6333824
+        39.9057136,
+        116.3912972
       ],
       "repositories": [
         {
-          "name": "OmniRoute",
-          "url": "https://github.com/diegosouzapw/OmniRoute"
-        }
-      ]
-    },
-    {
-      "owner": "TurboDevsAS",
-      "commits": 4,
-      "pullRequests": 0,
-      "location": [
-        59.9133301,
-        10.7389701
-      ],
-      "repositories": [
-        {
-          "name": ".github",
-          "url": "https://github.com/TurboDevsAS/.github"
-        },
-        {
-          "name": "BlissBrain_TimeCrisis_Prototype_SpillExpo",
-          "url": "https://github.com/TurboDevsAS/BlissBrain_TimeCrisis_Prototype_SpillExpo"
-        },
-        {
-          "name": "EEGBliss",
-          "url": "https://github.com/TurboDevsAS/EEGBliss"
+          "name": "MisakaNet",
+          "url": "https://github.com/Ikalus1988/MisakaNet"
         }
       ]
     },
     {
       "owner": "criger",
-      "commits": 4,
-      "pullRequests": 0,
+      "commits": 2,
+      "pullRequests": 2,
       "location": [
         61.1529386,
         8.7876653
@@ -69,126 +82,6 @@
         {
           "name": "Agentic-Ground-Rules",
           "url": "https://github.com/criger/Agentic-Ground-Rules"
-        }
-      ]
-    },
-    {
-      "owner": "tvibitnmkt",
-      "commits": 3,
-      "pullRequests": 0,
-      "location": [
-        69.6516345,
-        18.9558585
-      ],
-      "repositories": [
-        {
-          "name": "WhaleGuruVR",
-          "url": "https://github.com/tvibitnmkt/WhaleGuruVR"
-        }
-      ]
-    },
-    {
-      "owner": "progrium",
-      "commits": 2,
-      "pullRequests": 1,
-      "location": [
-        37.8044557,
-        -122.271356
-      ],
-      "repositories": [
-        {
-          "name": "authsite",
-          "url": "https://github.com/progrium/authsite"
-        }
-      ]
-    },
-    {
-      "owner": "qualweb",
-      "commits": 2,
-      "pullRequests": 7,
-      "location": [
-        38.7077507,
-        -9.1365919
-      ],
-      "repositories": [
-        {
-          "name": "qualweb",
-          "url": "https://github.com/qualweb/qualweb"
-        }
-      ]
-    },
-    {
-      "owner": "RightNow-AI",
-      "commits": 1,
-      "pullRequests": 1,
-      "location": [
-        31.1667049,
-        36.941628
-      ],
-      "repositories": [
-        {
-          "name": "openfang",
-          "url": "https://github.com/RightNow-AI/openfang"
-        }
-      ]
-    },
-    {
-      "owner": "kyzdes",
-      "commits": 1,
-      "pullRequests": 0,
-      "location": [
-        42.2885656,
-        18.8419505
-      ],
-      "repositories": [
-        {
-          "name": "fang-upgrade",
-          "url": "https://github.com/kyzdes/fang-upgrade"
-        }
-      ]
-    },
-    {
-      "owner": "ashkulz",
-      "commits": 1,
-      "pullRequests": 1,
-      "location": [
-        19.3653598,
-        73.3685437
-      ],
-      "repositories": [
-        {
-          "name": "committers.top",
-          "url": "https://github.com/ashkulz/committers.top"
-        }
-      ]
-    },
-    {
-      "owner": "DovieW",
-      "commits": 0,
-      "pullRequests": 1,
-      "location": [
-        40.7127281,
-        -74.0060152
-      ],
-      "repositories": [
-        {
-          "name": "vscode-insiders-release-notes",
-          "url": "https://github.com/DovieW/vscode-insiders-release-notes"
-        }
-      ]
-    },
-    {
-      "owner": "kflorence",
-      "commits": 0,
-      "pullRequests": 1,
-      "location": [
-        39.7837304,
-        -100.445882
-      ],
-      "repositories": [
-        {
-          "name": "jquery-deserialize",
-          "url": "https://github.com/kflorence/jquery-deserialize"
         }
       ]
     }

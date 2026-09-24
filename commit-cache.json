@@ -1214,5 +1214,13 @@
   "de20cb57a31f4b58703d6be3a299707522084636": {
     "origin": "turbolego/HololensIKEA",
     "resolvedAt": 1790083332369
+  },
+  "78a2425f8a2076c15a6ad30f7af45e3a5c34fe8e": {
+    "origin": "turbolego/wcag-skill",
+    "resolvedAt": 1790219103188
+  },
+  "15849c60bdbd818a3fb05a76060f2e69e8513f9c": {
+    "origin": "turbolego/wcag-skill",
+    "resolvedAt": 1790219103188
   }
 }

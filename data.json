@@ -1,7 +1,7 @@
 {
   "user": "kveita",
-  "generatedAt": "2026-10-29T04:19:02.706Z",
-  "totalCommits": 296,
+  "generatedAt": "2026-10-30T04:19:05.828Z",
+  "totalCommits": 301,
   "totalPullRequests": 21,
   "markers": [
     {
@@ -10,7 +10,7 @@
         59.9685301,
         10.4690248
       ],
-      "commits": 287,
+      "commits": 292,
       "pullRequests": 12,
       "owners": [
         "turbolego"
@@ -23,6 +23,10 @@
         {
           "name": "GuessTheSongYear",
           "url": "https://github.com/turbolego/GuessTheSongYear"
+        },
+        {
+          "name": "HarryHandel",
+          "url": "https://github.com/turbolego/HarryHandel"
         },
         {
           "name": "HololensAirplaneViewer",

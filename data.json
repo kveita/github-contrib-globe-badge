@@ -1,8 +1,8 @@
 {
   "user": "kveita",
-  "generatedAt": "2026-11-19T05:52:06.178Z",
-  "totalCommits": 385,
-  "totalPullRequests": 21,
+  "generatedAt": "2026-11-20T05:40:36.244Z",
+  "totalCommits": 386,
+  "totalPullRequests": 22,
   "markers": [
     {
       "countryCode": "NO",
@@ -10,12 +10,16 @@
         59.9685301,
         10.4690248
       ],
-      "commits": 375,
-      "pullRequests": 12,
+      "commits": 376,
+      "pullRequests": 13,
       "owners": [
         "turbolego"
       ],
       "repositories": [
+        {
+          "name": "AI-WCAG-Gauntlet",
+          "url": "https://github.com/turbolego/AI-WCAG-Gauntlet"
+        },
         {
           "name": "Agentic-Ground-Rules",
           "url": "https://github.com/turbolego/Agentic-Ground-Rules"

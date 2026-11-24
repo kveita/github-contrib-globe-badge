@@ -1,7 +1,7 @@
 {
   "user": "kveita",
-  "generatedAt": "2026-11-23T05:42:05.361Z",
-  "totalCommits": 413,
+  "generatedAt": "2026-11-24T08:20:30.206Z",
+  "totalCommits": 417,
   "totalPullRequests": 22,
   "markers": [
     {
@@ -10,7 +10,7 @@
         59.9685301,
         10.4690248
       ],
-      "commits": 403,
+      "commits": 407,
       "pullRequests": 13,
       "owners": [
         "turbolego"
@@ -23,10 +23,6 @@
         {
           "name": "Agentic-Ground-Rules",
           "url": "https://github.com/turbolego/Agentic-Ground-Rules"
-        },
-        {
-          "name": "BjerkefeltetSnowPlowing",
-          "url": "https://github.com/turbolego/BjerkefeltetSnowPlowing"
         },
         {
           "name": "GuessTheSongYear",
@@ -51,6 +47,10 @@
         {
           "name": "OldMilk",
           "url": "https://github.com/turbolego/OldMilk"
+        },
+        {
+          "name": "PlogNorgeBluesky",
+          "url": "https://github.com/turbolego/PlogNorgeBluesky"
         },
         {
           "name": "RullUt",
